@@ -1,0 +1,9 @@
+one stop city services' app
+  an app the makes a searchable, categorized (resident, home-owner, business-owner) list of available city resources for people within abq.
+
+a diy/craft project social media site
+    a social media site for posting craft projects with a UI designed around before and after pictures.
+
+
+review that thing
+    a social media website that lets users put together lists of items (anything) that they review and assign a value out of value
